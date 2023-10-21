@@ -1,6 +1,6 @@
-# Liverpool FC Website
+# Ekhaya#36 Tournament Website
 
-Welcome to the Liverpool FC website, a platform dedicated to everything related to Liverpool Football Club. Here, you can explore the rich history, current squad, and key facts about one of the most iconic football clubs in the world.
+Welcome to the Ekhaya#36 Tournament website.
 
 
 
@@ -15,12 +15,11 @@ Welcome to the Liverpool FC website, a platform dedicated to everything related 
 
 ## About
 
-Liverpool FC Website is a web application built to provide fans and enthusiasts with comprehensive information about Liverpool Football Club. It features:
+Ekhaya#36 Tournament Website is a web application built to provide fans and enthusiasts with comprehensive information about Ekhaya#36 Tournament. It features:
 
 - **Home Page:** A visually stunning home page with a full background image and a central button for quick navigation.
-- **Squad Page:** Information on all Liverpool FC players, including managers and assistants, displayed in an organized card format.
-- **History Page:** A journey through Liverpool FC's rich history, with important events and milestones.
-- **Titles Page:** A list of Liverpool FC's titles and achievements displayed in a professional table.
+- **Showcase Page:** A journey through Ekhaya#36 Tournament rich history, with important events and milestones.
+- **Events Page:** A list of Ekhaya#36 Tournaments events displayed in a page.
 - **About Page:** Interesting and fun facts about Liverpool FC for fans and curious minds.
 
 ## Features
@@ -28,20 +27,19 @@ Liverpool FC Website is a web application built to provide fans and enthusiasts 
 - **Responsive Design:** The website is designed to work seamlessly on various screen sizes, from desktop to mobile devices.
 - **Professional Styling:** The website utilizes React Bootstrap to achieve a clean and professional appearance.
 - **Interactive Elements:** Intuitive navigation and interactive components enhance the user experience.
-- **Comprehensive Content:** Detailed information about the squad, history, titles, and interesting facts.
 
 ## Installation
 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/liverpool-fc-website.git
+   git clone https://github.com/your-username/Soccer-website.git
    
    
 2. Navigate to the project directory:
 
    ```bash
-   cd liverpool-fc-website
+   cd Soccer-website
    
 
 4. Install the necessary dependencies:
