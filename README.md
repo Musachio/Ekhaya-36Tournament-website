@@ -33,7 +33,7 @@ Ekhaya#36 Tournament Website is a web application built to provide fans and enth
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/Soccer-website.git
+   git clone https://github.com/Musachio/Soccer-website.git
    
    
 2. Navigate to the project directory:
