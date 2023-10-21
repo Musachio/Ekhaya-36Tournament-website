@@ -20,7 +20,7 @@ Ekhaya#36 Tournament Website is a web application built to provide fans and enth
 - **Home Page:** A visually stunning home page with a full background image and a central button for quick navigation.
 - **Showcase Page:** A journey through Ekhaya#36 Tournament rich history, with important events and milestones.
 - **Events Page:** A list of Ekhaya#36 Tournaments events displayed in a page.
-- **About Page:** Interesting and fun facts about Liverpool FC for fans and curious minds.
+- **About Page:** Interesting and fun facts about Ekhaya#36 Tournament for fans and curious minds.
 
 ## Features
 
